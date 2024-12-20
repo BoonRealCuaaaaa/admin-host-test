@@ -9,7 +9,7 @@ const Title = () => {
                <p className="text-xl font-semibold">AI Settings</p>
                <p className="text-jarvis-text">Customize the AI model to suit your preferences</p>
             </div>
-            <Button variant="outline" size="xs" className="font-normal" >
+            <Button variant="ghost" size="small" className="font-normal" >
                <Book />
                Docs
             </Button>
